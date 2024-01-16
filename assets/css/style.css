@@ -1,0 +1,73 @@
+.header{
+    height:20em;
+    background-image: url(../images/fondo\ 2.jpg);
+    background-size: contain;
+    background-position: center;
+}
+.header h1{
+    margin: 0px;
+    font-weight: 400;
+}
+body{
+    font-family:Raleway
+}
+
+.header{
+    height: 10em;
+    padding: 5em;
+    font-size: 2em;
+    background-image: url(../images/fondo\ 2.jpg);
+    background-size: cover;
+    background-position:center;
+    margin: 2em;
+}
+
+.header h1{
+    color: black;
+}
+.header p{
+    color: black;
+}
+
+.products{
+    width: 80%;
+    margin: auto;
+    border: 2px solid black;
+}
+
+.products td{
+    width: 50%;
+    padding: 3em;
+}
+
+.products img{
+    width: 100%;
+    border: solid 1px black
+}
+
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(90, 65, 40);
+    color: black;
+    text-align: center;
+    font-weight: 900;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
